@@ -1,0 +1,27 @@
+{
+  "name": "web-service-dispatcher",
+  "version": "0.1.0",
+  "description": "Web Service Dispatcher",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hydrocloud/WebServiceDispatcher.git"
+  },
+  "keywords": [
+    "web",
+    "service",
+    "dispatcher"
+  ],
+  "author": "Heyang Zhou",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hydrocloud/WebServiceDispatcher/issues"
+  },
+  "homepage": "https://github.com/hydrocloud/WebServiceDispatcher#readme",
+  "dependencies": {
+    "servicehub-sdk": "^0.1.2"
+  }
+}
